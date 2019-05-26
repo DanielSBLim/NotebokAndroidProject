@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">study1</string>
+
+    <string name="label_calc">계산</string>
+</resources>
